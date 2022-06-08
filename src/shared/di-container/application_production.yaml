@@ -1,0 +1,5 @@
+services:
+
+  shared.controllers.StatusController:
+    class: ../controllers/status.controller
+    arguments: []
